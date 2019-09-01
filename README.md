@@ -1219,12 +1219,14 @@ Service Info: OS: Linux; CPE: cpe:/o:linux:linux_kernel
    - Local machine:
      ```console
      scp ./kryptos_root.py rijndael@10.10.10.129:/var/tmp/kryptos_root.py
-     # 
+
+     # rijndael@10.10.10.129's password: bkVBL8Q9HuBSpj
      ```
   
    - kryptos machine:
      ```console
      python3 /var/tmp/kryptos_root.py
+
      #
      # [KryptOS RNG Enumeration]
      #
