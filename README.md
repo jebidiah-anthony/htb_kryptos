@@ -998,7 +998,7 @@ Service Info: OS: Linux; CPE: cpe:/o:linux:linux_kernel
 
      cat user.txt
 
-     # 92b69719917528cc6b19fd551da90de2
+     # 92b6........................0de2
      ```
 
 ---
@@ -1258,7 +1258,7 @@ Service Info: OS: Linux; CPE: cpe:/o:linux:linux_kernel
      # /root/root.txt
      #
      # root@kryptos# cat /root/root.txt
-     # 6256d6dcf75cb62343e023ae9e567c6e
+     # 6256........................7c6e
      #
      # root@kryptos# 
      ```
